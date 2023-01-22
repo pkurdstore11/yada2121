@@ -26,7 +26,7 @@ function myFunctionz() {
 		<meta name="theme-color" content="#1DA1F2">
 		<meta name="format-detection" content="telephone=no">
 		<meta name="msapplication-tap-highlight" content="no">
-		<title>Kurd store</title>
+		<title>Kurd IOS</title>
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 		<link rel="apple-touch-icon" href="https://kurdstore.info/assets/icon/icon.png">
